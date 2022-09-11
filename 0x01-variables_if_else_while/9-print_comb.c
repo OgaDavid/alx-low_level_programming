@@ -20,8 +20,6 @@ if (c != 57)
 putchar(',');
 putchar(' ');
 }
-char(' ');															
-}
 }
 putchar('\n');
 return (0);
