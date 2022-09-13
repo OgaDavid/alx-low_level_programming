@@ -1,49 +1,35 @@
-What are header files and how to to use them with #include
+File 0-potchar.c is a program that prints _putchar, followed by a new line.
 
-0. _putchar
+File 1-alphabet.c is a function that prints the alphabet, in lowercase, followed by a new line.
 
-Write a program that prints Holberton, followed by a new line.
+File 2-print_alphabet_x10.c is a function that prints 10 times the alphabet, in lowercase, followed by a new line.
 
-1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
+File 3-islower.c is a function that checks for lowercase character.
 
-Write a function that prints the alphabet, in lowercase, followed by a new line.
+File 4-isalpha.c is a function that checks for alphabetic character.
 
-2. 10 x alphabet
+File 5-sign.c is a function that prints the sign of a number.
 
-Write a function that prints 10 times the alphabet, in lowercase, followed by a new line.
+File 6-abs.c is a function that computes the absolute value of an integer.
 
-3. islower
+File 7-print_last_digit.c is a function that prints the last digit of a number.
 
-Write a function that checks for lowercase character.
+File 8-24_hours.c is a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
 
-4. isalpha
+File 10-add.c is a function that adds two integers and returns the result.
 
-Write a function that checks for alphabetic character.
+File 11-print_to_98.c is a function that prints all natural numbers from n to 98, followed by a new line.
 
-5. Sign
+File 100-times_table.c is a function that prints the n times table, starting with 0.
 
-Write a function that prints the sign of a number.
+File 101-natural.c is a program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
 
-6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you
+File 102-fibonacci.c is a program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
 
-Write a function that computes the absolute value of an integer.
+File 103-fibonacci.c is a program that finds and prints the sum of the even-valued terms of the Fibonacci suite under 4000000, followed by a new line.
 
-7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
+File 104-fibonacci.c is a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
 
-Write a function that prints the last digit of a number.
+File _putchar.c contains the _putchar() function definition.
 
-8. I'm federal agent Jack Bauer, and today is the longest day of my life
-
-Write a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
-
-9. Learn your times table
-
-Write a function that prints the 9 times table, starting with 0.
-
-10. a + b
-
-Write a function that adds two integers and returns the result.
-
-11. Holberton School, 98 Battery Street, San Francisco CA 94111
-
-Write a function that prints all natural numbers from n to 98, followed by a new line.
+File putchar.h is the header file containing all the function prototypes used in this project.
