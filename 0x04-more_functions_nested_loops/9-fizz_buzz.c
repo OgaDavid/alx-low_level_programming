@@ -7,8 +7,7 @@
 *Return: returns 0
 */
 
-int main(void)
-{
+int main(void){
 int num = 1;
 
 while (num++ < 100)
