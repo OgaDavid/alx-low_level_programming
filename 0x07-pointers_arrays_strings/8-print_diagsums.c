@@ -25,5 +25,3 @@ void print_diagsums(int *a, int size)
 
 	printf("%d, %d\n", sum1, sum2);
 }
-Footer
-© 2022 GitHub, Inc.
