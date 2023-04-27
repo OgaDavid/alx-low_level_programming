@@ -1,1 +1,1 @@
-This repository contains C projects an other low level programming exercises.
+This repository contains C projects and other low level programming exercises.
